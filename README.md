@@ -16,7 +16,9 @@ This Tampermonkey userscript shows who killed whom at the top-right corner with 
 ---
 
 ## 🎮 Preview  
-<img width="1470" alt="kdhub-preview" src="https://github.com/user-attachments/assets/YOUR-IMAGE-ID-HERE" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/741c9ffa-690a-4bb4-ae90-1f934e4c41ed" />
+↓cyber-font×this mod
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/c81c5508-5ba7-4302-ba90-233496d8e51a" />
 
 ---
 
